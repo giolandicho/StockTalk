@@ -1,0 +1,19 @@
+.sidebar_dm:hover{
+    color:white;
+    background-color: #40464b;
+}
+.sidebar_dm {
+    display:flex;
+    padding-left:20px;
+    align-items:center;
+    background-color: #2f3135;
+    color:gray;
+    cursor:pointer;
+    padding: 5px;
+}
+.sidebar_dm > h4{
+    padding-left:15px;
+}
+.sidebar_avatar {
+    margin-left:15px;
+}
